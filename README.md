@@ -1,8 +1,8 @@
 # Privacy Policy for Klicky
 
-*Last updated: May 19, 2026*
+*Last updated: June 5, 2026*
 
-Klicky is a kickball scorekeeper app for iPhone. This policy explains how the app handles your data.
+Klicky is a kickball scorekeeper app for iPhone and Android. This policy explains how the app handles your data.
 
 ---
 
@@ -14,7 +14,7 @@ Klicky is a kickball scorekeeper app for iPhone. This policy explains how the ap
 
 ## What Stays on Your Device
 
-Klicky stores the following data **locally on your iPhone only**, using standard iOS storage (UserDefaults). This data never leaves your device and is never shared with anyone.
+Klicky stores the following data **locally on your device only**, using standard platform storage (UserDefaults on iOS, SharedPreferences on Android). This data never leaves your device and is never shared with anyone.
 
 - **Game history** — scores, team names, and inning-by-inning run logs from completed games
 - **Active game state** — the in-progress game is saved so it survives an accidental app close
@@ -38,7 +38,7 @@ Klicky does not knowingly collect data from anyone, including children under 13.
 
 ## Changes to This Policy
 
-If this policy changes in a future version, the updated date above will reflect that. Changes will only ever reflect improvements to clarity or updates to app functionality — we will never introduce data collection without updating this policy and re-submitting to the App Store.
+If this policy changes in a future version, the updated date above will reflect that. Changes will only ever reflect improvements to clarity or updates to app functionality — we will never introduce data collection without updating this policy and re-submitting to the App Store or Google Play.
 
 ---
 
